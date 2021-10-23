@@ -23,5 +23,9 @@ all file aksathe stagin korar jonno
 git add --all
 git add .
 ============================================
+git commit Command
+git commit / or
+git commit commit -m "Contact page added"
+===========================================
 
 
