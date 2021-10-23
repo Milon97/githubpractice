@@ -1,0 +1,27 @@
+Global User Create Command:
+git config --global user.name "Milon"
+git config --global user.email "nm.milon97@gmail.com"
+=============================
+
+Local User create Alada alada project er jonno alada user create;
+git config user.name "new name"
+git config user.email "email address"
+========================================
+git user checker command
+git config --list
+========================================
+command Clear 
+clear
+========================================
+untrack file mane notun file create korle check kora command
+git status
+=============================================
+notun file track mane stage korar jonno command
+git add file name
+exam: git add index.html
+all file aksathe stagin korar jonno
+git add --all
+git add .
+============================================
+
+
